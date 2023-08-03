@@ -1,1 +1,28 @@
 
+.model-overlay{
+    background-color: #A2D2E2;
+    border:1px solid black
+}
+
+.show-model{
+    margin:10px;
+    background-color:#C55151 ;
+    color:white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.model-close{
+    margin:10px;
+    background-color:#C55151 ;
+    color:white;border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.model-p{
+    margin: 10px;
+}
+.model-overlay{
+    width:50%;
+}
